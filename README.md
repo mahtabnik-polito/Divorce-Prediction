@@ -1,4 +1,4 @@
-# data-spaces
+# Analysis for Divorce Prediction
 The selected data set for analysis can be found in following ways:
 
 http://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=num&area=&numAtt=10to100&numIns=100to1000&type=mvar&sort=nameUp&view=table
